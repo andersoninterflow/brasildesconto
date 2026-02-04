@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <rect width="192" height="192" fill="#1A472A"/>
+  <circle cx="96" cy="96" r="72" fill="none" stroke="#FFD700" stroke-width="8"/>
+  <text x="96" y="135" font-size="80" font-weight="bold" text-anchor="middle" fill="#FFD700">BR</text>
+</svg>

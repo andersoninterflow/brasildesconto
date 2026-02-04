@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Home -->
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Categorias -->
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/category/eletronicos</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/category/alimentos</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/category/fashion</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/category/livros</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/category/viagem</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/category/casa</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Produtos Destacados (sample) -->
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-001</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1592286927505-1def25115558?w=500</image:loc>
+      <image:title>iPhone 15 Pro Max</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-002</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1588872657840-218e412ee5de?w=500</image:loc>
+      <image:title>Notebook Dell Inspiron 15</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-003</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?w=500</image:loc>
+      <image:title>Pizza Premium</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-004</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500</image:loc>
+      <image:title>Camiseta Premium Uniqlo</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-005</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1543163521-9efcc06b1d5d?w=500</image:loc>
+      <image:title>Sapato Social Couro</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-006</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-007</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=500</image:loc>
+      <image:title>Passagem Aérea</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-008</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1595692050693-4ce3e5d64c13?w=500</image:loc>
+      <image:title>Espelho Decorativo</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-009</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500</image:loc>
+      <image:title>AirPods Pro 2ª Geração</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://seu-usuario.github.io/brasil-desconto/#/product/prod-010</loc>
+    <lastmod>2026-02-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=500</image:loc>
+      <image:title>Hospedagem Pousada</image:title>
+    </image:image>
+  </url>
+  
+</urlset>

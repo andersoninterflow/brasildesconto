@@ -1,0 +1,38 @@
+[
+  {
+    "id": "eletronicos",
+    "name": "Eletrônicos",
+    "description": "Smartphones, notebooks, acessórios",
+    "icon": "📱"
+  },
+  {
+    "id": "alimentos",
+    "name": "Alimentos e Bebidas",
+    "description": "Comida, bebidas, delivery",
+    "icon": "🍔"
+  },
+  {
+    "id": "fashion",
+    "name": "Moda e Acessórios",
+    "description": "Roupas, sapatos, bolsas",
+    "icon": "👕"
+  },
+  {
+    "id": "livros",
+    "name": "Livros e Mídia",
+    "description": "Livros, e-books, audiobooks",
+    "icon": "📚"
+  },
+  {
+    "id": "viagem",
+    "name": "Viagem e Turismo",
+    "description": "Passagens, hospedagem, tours",
+    "icon": "✈️"
+  },
+  {
+    "id": "casa",
+    "name": "Casa e Decoração",
+    "description": "Móveis, decoração, utensílios",
+    "icon": "🏠"
+  }
+]

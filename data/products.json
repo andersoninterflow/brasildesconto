@@ -1,0 +1,169 @@
+[
+  {
+    "id": "prod-001",
+    "title": "iPhone 15 Pro Max",
+    "description": "Smartphone Apple com tela OLED 6.7\", câmera avançada e bateria durável. Última geração com processador A17 Pro.",
+    "price": 7499.00,
+    "originalPrice": 8999.00,
+    "coupon": "BRASIL15",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1592286927505-1def25115558?w=500&h=500&fit=crop",
+      "https://images.unsplash.com/photo-1511707267537-b85faf00021e?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.apple.com/br/shop/buy-iphone",
+    "categoryId": "eletronicos",
+    "active": true,
+    "createdAt": "2026-02-01T08:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z",
+    "expiresAt": "2026-03-01T23:59:59Z"
+  },
+  {
+    "id": "prod-002",
+    "title": "Notebook Dell Inspiron 15",
+    "description": "Laptop com processador Intel Core i7, 16GB RAM, 512GB SSD. Ideal para trabalho e estudo. Tela Full HD.",
+    "price": 3299.00,
+    "originalPrice": 4299.00,
+    "coupon": "TECH20",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1588872657840-218e412ee5de?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.dell.com/pt-br",
+    "categoryId": "eletronicos",
+    "active": true,
+    "createdAt": "2026-02-02T09:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z",
+    "expiresAt": "2026-02-28T23:59:59Z"
+  },
+  {
+    "id": "prod-003",
+    "title": "Pizza Premium Retrô - R$25",
+    "description": "Pizza grande (8 fatias) com massa artesanal. Escolha seu sabor favorito. Entrega em 30 minutos na região central.",
+    "price": 25.00,
+    "originalPrice": 35.00,
+    "coupon": "PIZZA10",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.ifood.com.br",
+    "categoryId": "alimentos",
+    "active": true,
+    "createdAt": "2026-02-02T10:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z",
+    "expiresAt": "2026-02-28T23:59:59Z"
+  },
+  {
+    "id": "prod-004",
+    "title": "Camiseta Básica Premium - Uniqlo",
+    "description": "Camiseta de algodão 100% premium. Disponível em várias cores. Confortável e durável. Peça essencial do guarda-roupa.",
+    "price": 49.90,
+    "originalPrice": 99.90,
+    "coupon": "UNIQLO50",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.uniqlo.com/br/",
+    "categoryId": "fashion",
+    "active": true,
+    "createdAt": "2026-02-01T11:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z",
+    "expiresAt": "2026-02-25T23:59:59Z"
+  },
+  {
+    "id": "prod-005",
+    "title": "Sapato Social Couro - Samello",
+    "description": "Sapato social 100% couro genuíno. Design clássico e elegante. Confortável para dia inteiro. Várias cores disponíveis.",
+    "price": 189.90,
+    "originalPrice": 349.90,
+    "coupon": "SAMELLO45",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1543163521-9efcc06b1d5d?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.samello.com.br",
+    "categoryId": "fashion",
+    "active": true,
+    "createdAt": "2026-02-02T12:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z",
+    "expiresAt": "2026-02-20T23:59:59Z"
+  },
+  {
+    "id": "prod-006",
+    "title": "Dom Casmurro - Machado de Assis",
+    "description": "Clássico da literatura brasileira. Edição de bolso com introdução crítica. Leitura obrigatória. 200 páginas.",
+    "price": 29.90,
+    "originalPrice": 54.90,
+    "coupon": "LIVRO45",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1507842217343-583f20270319?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.skoob.com.br",
+    "categoryId": "livros",
+    "active": true,
+    "createdAt": "2026-02-03T13:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z"
+  },
+  {
+    "id": "prod-007",
+    "title": "Passagem Aérea São Paulo → Rio (Ida e Volta)",
+    "description": "Voo direto com a GOL. Ida 15 fev, volta 18 fev. Bagagem 23kg incluída. Refeição a bordo.",
+    "price": 549.00,
+    "originalPrice": 899.00,
+    "coupon": "GOL38",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.gol.com.br",
+    "categoryId": "viagem",
+    "active": true,
+    "createdAt": "2026-02-01T14:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z",
+    "expiresAt": "2026-02-14T23:59:59Z"
+  },
+  {
+    "id": "prod-008",
+    "title": "Espelho de Parede Decorativo 90x60",
+    "description": "Espelho com moldura em madeira maciça. Design moderno minimalista. Ideal para sala ou quarto. Fácil instalação.",
+    "price": 149.90,
+    "originalPrice": 299.90,
+    "coupon": "DECOR50",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1595692050693-4ce3e5d64c13?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.mobly.com.br",
+    "categoryId": "casa",
+    "active": true,
+    "createdAt": "2026-02-02T15:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z"
+  },
+  {
+    "id": "prod-009",
+    "title": "AirPods Pro (2ª Geração)",
+    "description": "Fones de ouvido sem fio com cancelamento de ruído. Até 6 horas de bateria. Case carregador. Resistente à água.",
+    "price": 1499.00,
+    "originalPrice": 1999.00,
+    "coupon": "APPLE25",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.apple.com/br/shop/buy-airpods",
+    "categoryId": "eletronicos",
+    "active": true,
+    "createdAt": "2026-02-03T16:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z"
+  },
+  {
+    "id": "prod-010",
+    "title": "Hospedagem 3 Noites - Pousada Floresta (Brotas)",
+    "description": "Acomodação 4 estrelas em pousada ecoturística. Café da manhã incluso. Piscina, sauna e trilhas. Romântico.",
+    "price": 1200.00,
+    "originalPrice": 1800.00,
+    "coupon": "VIAGEM33",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=500&h=500&fit=crop"
+    ],
+    "affiliateUrl": "https://www.booking.com",
+    "categoryId": "viagem",
+    "active": true,
+    "createdAt": "2026-02-01T17:00:00Z",
+    "updatedAt": "2026-02-04T10:30:00Z"
+  }
+]

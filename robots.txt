@@ -1,0 +1,15 @@
+# Brasil Desconto - robots.txt
+# https://www.robotstxt.org/
+
+User-agent: *
+Allow: /
+
+# Desaconselhar indexação de admin (privado)
+Disallow: /admin/
+
+# Crawler delays
+Crawl-delay: 1
+Request-rate: 1/1s
+
+# Sitemap
+Sitemap: https://seu-usuario.github.io/brasil-desconto/sitemap.xml
